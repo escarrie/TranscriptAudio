@@ -1,0 +1,16 @@
+# Ignorer l'environnement virtuel
+whisper_env/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de logs
+*.log
+
+# Environnements et variables d'environnement
+.env
+
+# Dépendances
+*.egg-info/
