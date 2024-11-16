@@ -1,5 +1,6 @@
 # Ignorer l'environnement virtuel
 whisper_env/
+env
 
 # Fichiers Python compilés
 __pycache__/
